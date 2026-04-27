@@ -1,1 +1,1 @@
-# Laur-a-BOT
+# LaureaBOT
